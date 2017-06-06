@@ -80,6 +80,6 @@ node server
 ```
 打开浏览器输入http://localhost:3300/
 
-#### 感谢该感谢的人
+#### 完毕
 
 
